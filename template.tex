@@ -1,0 +1,150 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty One Seconds Resume/CV
+% LaTeX Template
+% Version 1.0 (2022/12/29)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+%
+% License
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Alessandro Trinca Tornidor (alessandro at trinca dot tornidor dot com)
+%% Copyright 2022-now Alessandro Trinca Tornidor (alessandro at trinca dot tornidor dot com)
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License, either version 1.3
+% of this license or (at your option) any later version.
+% The latest version of this license is in
+%   http://www.latex-project.org/lppl.txt
+% and version 1.3 or later is part of all distributions of LaTeX
+% version 2005/12/01 or later.
+%
+% This work has the LPPL maintenance status `maintained'.
+% 
+% The Current Maintainer of this work is Alessandro Trinca Tornidor
+%
+% This work consists of the files template.tex and twentyonesecondcv.cls
+% and the derived file twentyonesecondcv.pdf
+%
+% see https://github.com/trincadev/cv-latex-twentyoneseconds/ for updates
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentyonesecondcv} % a4paper for A4
+
+\usepackage{scrextend}
+
+\profilepic{IMG} % Profile picture
+\cvjobtitle{} % Job title/career
+\cvname{Albert Kołodziejski} % Your name
+
+%% Mandatory informations used by \makeinfoprofile. To hide these fields leave the contents of the macro empty (e.g. '\cvsitepersonal{}' instead than '\cvsitepersonal{en.wikipedia.org}')
+%% See https://tex.stackexchange.com/a/692525/109031
+\cvbirthdate{}
+\cvnumberphone{+48 501 075 478}
+\cvaddressurl{}
+\cvaddress{}        % Short address/location, use \newline if more than 1 line is required
+\cvsitepersonal{}       % personal site
+\cvstackoverflow{}
+\cvlinkedin{akolodziejki}
+\cvskypeurlbase{} % Skype 
+\cvskypeurl{}
+\cvgithub{Antlion931}  
+\cvmail{Albert.Kolodziejski@proton.me}
+
+\begin{document}
+\sidesection{
+    \makeheaderprofile
+    % \makeheaderprofilenoimg
+    \makeinfoprofile
+    \aboutme{I am a third-year student seeking a job that will challenge me and provide
+opportunities to step out of my comfort zone. I am eager to learn, work hard, admit
+my mistakes, draw lessons from them, and try again until it is done.}
+    \customsidesection{Languages}{
+        \begin{itemize}
+            \item English - B2
+            \item Polish - Native Speaker
+        \end{itemize}
+    }
+    \customsidesection{Skills}{
+        \begin{itemize}
+            \item Rust
+            \item C++
+            \item Git
+            \item Problem Solving
+            \item Linux
+            \item SQL
+            \item Testing
+            \item Teamwork
+            \item LaTeX
+        \end{itemize}
+    }
+    \par\vfill
+    \makefooterprofile{I agree to the processing of personal data
+provided in this document for realising the
+recruitment process pursuant to the Personal
+Data Protection Act of 10 May 2018 (Journal of
+Laws 2018, item 1000) and in agreement with
+Regulation (EU) 2016/679 of the European
+Parliament and of the Council of 27 April 2016
+on the protection of natural persons with regard
+to the processing of personal data and on the
+free movement of such data, and repealing
+Directive 95/46/EC (General Data Protection
+Regulation).}{}
+    
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for some reason it's impossible to have a new line here...
+\mainsection{
+    \changefontsizes{12pt}
+    
+    \section{Education}
+    
+    \begin{twenty}
+      \twentyitem
+        {2021 - now}
+        {Bachelor of Computer Science}
+        {Wrocław University of Science and Technology}
+        {My studies emphasize understanding IT.
+Throughout them, I have gained knowledge
+about algorithms, floating point errors,
+computation limits, and compilers.}
+    \end{twenty}
+    
+    \section{Projects}
+    
+    \begin{twentymid} % Environment for a list with descriptions  
+        \twentymiditem{2D Game}{
+            My two friends and I have made a 2D game in      \textbf{C++} without using any game engines, relying only on \textbf{SFML} for window rendering. We created everything from collision detection to the user interface ourselves. If you're interested, you can check out the \textbf{devlog} I created to see our creative process and some of the systems we developed. \colorhrefcustom{https://www.youtube.com/watch?v=bZTlXNqfFJc}{devlog}}{}
+        \twentymiditem{Compiler}{
+            One of the hardest exercises in my studies was creating a working compiler that translates a simple language to simple assembler. I built it using \textbf{Rust} and a parser library, and to ensure it worked as intended, I employed \textbf{test-driven development}.}{}
+    \end{twentymid}
+
+    \section{Activities}
+    
+    \begin{twentymid} % Environment for a list with descriptions  
+        \twentymiditem{Databases}{
+            Databases is another course I have taken during my studies. In this course, I wrote many \textbf{SQL} queries, learned various concepts, and ultimately \textbf{designed a database} for a turn-based game.}{}
+        \twentymiditem{Practice}{
+            In my free time, I enjoy doing coding exercises in \textbf{C++} and \textbf{Rust} on websites like SPOJ and Exercism. Additionally, I have \textbf{mentored several people}, helping them improve their solutions and introducing them to core concepts in these languages.\colorhrefcustom{https://exercism.org/profiles/Antlion931/testimonials}{Testimonials of students}}{}
+        \twentymiditem{Reports}{
+            Throughout my studies, many courses required me to write reports, which I composed using \textbf{LaTeX}. This experience allowed me to develop skills and knowledge in creating professional documents.}{}
+    \end{twentymid}
+
+    \section{Hobbies}
+    
+    \begin{twentymid} % Environment for a list with descriptions  
+        \twentymiditem{Games}{
+            I love board games, one of me favorites is Magic the gathering. I have currently more then 300 cards, that I use to arrange tournaments for my friends.}{}
+        \twentymiditem{Books}{
+            My favorite author is Brandon Sanderson, who writes fantasy books that focus on world building and coherent magic system.}{}
+    \end{twentymid}
+%% end main section
+}
+% \newpage
+\end{document}
