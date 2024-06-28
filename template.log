@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.21)  28 JUN 2024 09:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.21)  28 JUN 2024 10:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -774,199 +774,199 @@ Package hyperref Info: Link coloring ON on input line 59.
 <IMG.jpg, id=43, 3854.4pt x 5781.6pt>
 File: IMG.jpg Graphic file (type jpg)
 <use IMG.jpg>
-Package pdftex.def Info: IMG.jpg  used on input line 100.
+Package pdftex.def Info: IMG.jpg  used on input line 103.
 (pdftex.def)             Requested size: 174.26576pt x 261.39586pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 100.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 100.
+(Font)              scaled to size 14.4pt on input line 103.
 
 
 LaTeX Font Warning: Font shape `T1/ClearSans-TLF/m/sc' undefined
-(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 100.
+(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 103.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 100.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 100.
+(Font)              scaled to size 14.4pt on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <12> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 100.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 100.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 100.
+(Font)              scaled to size 12.0pt on input line 103.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 103.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/sc' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 100.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 103.
 
 
-Overfull \hbox (2.32549pt too wide) in paragraph at lines 100--100
+Overfull \hbox (2.32549pt too wide) in paragraph at lines 103--103
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 100.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 100.
+(Font)              scaled to size 10.0pt on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <11> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 100.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 11.0pt on input line 100.
+(Font)              scaled to size 11.0pt on input line 103.
 
-Overfull \hbox (2.17363pt too wide) in paragraph at lines 100--100
+Overfull \hbox (2.17363pt too wide) in paragraph at lines 103--103
 [][]| 
  []
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 100.
+LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 103.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesomeone/m/sc' undefined
-(Font)              using `U/fontawesomeone/m/n' instead on input line 100.
+(Font)              using `U/fontawesomeone/m/n' instead on input line 103.
 
 
-Overfull \hbox (2.33525pt too wide) in paragraph at lines 100--100
+Overfull \hbox (2.33525pt too wide) in paragraph at lines 103--103
 [][]| 
  []
 
 
-Overfull \hbox (2.17363pt too wide) in paragraph at lines 100--100
+Overfull \hbox (2.17363pt too wide) in paragraph at lines 103--103
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <12> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 100.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 100.
-LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 100.
+(Font)              scaled to size 12.0pt on input line 103.
+LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 103.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
 File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearSans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not available
-(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 100.
+(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 100.
+(Font)              scaled to size 10.0pt on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 100.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 7.0pt on input line 100.
+(Font)              scaled to size 7.0pt on input line 103.
 
-Underfull \hbox (badness 1178) in paragraph at lines 100--100
+Underfull \hbox (badness 1178) in paragraph at lines 103--103
 \T1/ClearSans-TLF/regular/n/7 May 2018 (Jour-nal of Laws 2018, item 1000) and
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 100--100
+Underfull \hbox (badness 7308) in paragraph at lines 103--103
 \T1/ClearSans-TLF/regular/n/7 in agree-ment with Reg-u-la-tion (EU) 2016/679 of
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 100--100
+Underfull \hbox (badness 1648) in paragraph at lines 103--103
 \T1/ClearSans-TLF/regular/n/7 the Eu-ro-pean Par-lia-ment and of the Coun-cil of 27
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 100--100
+Underfull \hbox (badness 2050) in paragraph at lines 103--103
 \T1/ClearSans-TLF/regular/n/7 re-gard to the pro-cess-ing of per-sonal data and on
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 100--100
+Underfull \hbox (badness 1062) in paragraph at lines 103--103
 \T1/ClearSans-TLF/regular/n/7 the free move-ment of such data, and re-peal-ing Di-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--100
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.39996> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 148.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 155.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.39996pt on input line 148.
+(Font)              scaled to size 14.39996pt on input line 155.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <10.00012> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 148.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 155.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.00012pt on input line 148.
+(Font)              scaled to size 10.00012pt on input line 155.
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <12> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 148.
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 155.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 148.
+(Font)              scaled to size 12.0pt on input line 155.
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 148--148
-[]\T1/ClearSans-TLF/regular/n/12 Databases is an-other course I have taken dur-ing my
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 1472) in paragraph at lines 155--155
+\T1/ClearSans-TLF/regular/n/12 of Reusable Object-Oriented Soft-ware." This knowl-edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 155--155
 []\T1/ClearSans-TLF/regular/n/12 I love board games, one of me fa-vorites is Magic the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 148--148
+Underfull \hbox (badness 2181) in paragraph at lines 155--155
 []\T1/ClearSans-TLF/regular/n/12 My fa-vorite au-thor is Bran-don Sander-son, who writes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Overfull \hbox (1.79999pt too wide) in paragraph at lines 100--150
+Overfull \hbox (1.79999pt too wide) in paragraph at lines 103--157
 [] [] 
  []
 
@@ -987,13 +987,13 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 Here is how much of TeX's memory you used:
  30992 strings out of 474504
  611648 string characters out of 5752696
- 1956040 words of memory out of 5000000
+ 1957040 words of memory out of 5000000
  52431 multiletter control sequences out of 15000+600000
  609506 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,20n,121p,1214b,1110s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on template.pdf (1 page, 1558700 bytes).
+Output written on template.pdf (1 page, 1559028 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream

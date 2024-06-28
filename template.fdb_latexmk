@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1719560458 "/home/antlion/CV/template.tex" "template.pdf" "template" 1719560459 0
-  "/home/antlion/CV/template.tex" 1719560457 6547 04afb84acd38c37f866715c35c6c8db0 ""
+["pdflatex"] 1719563219 "/home/antlion/CV/template.tex" "template.pdf" "template" 1719563221 0
+  "/home/antlion/CV/template.tex" 1719563219 7251 4361e87e45e241e7d581daf8afe97df1 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc" 1571259062 3317 49c09c087ace8f807c62d66ec2c69191 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc" 1571259062 3006 bee092328c2beafee1f162d4e38aad34 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
@@ -216,9 +216,9 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697881851 8195308 188dbb69bd9867bd251ec5207eb46f3e ""
   "/usr/local/texlive/2023/texmf.cnf" 1697881741 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "IMG.jpg" 1719508796 1499559 ad5a025e292e8a01ed146842715eda87 ""
-  "template.aux" 1719560459 590 b5c7e79ecde97fe0c8b1bf886a92290f "pdflatex"
-  "template.out" 1719560459 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "template.tex" 1719560457 6547 04afb84acd38c37f866715c35c6c8db0 ""
+  "template.aux" 1719563221 590 b5c7e79ecde97fe0c8b1bf886a92290f "pdflatex"
+  "template.out" 1719563221 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "template.tex" 1719563219 7251 4361e87e45e241e7d581daf8afe97df1 ""
   "twentyonesecondcv.cls" 1719508778 12345 c0178a6a18dfdbfdb702c560c9794626 ""
   (generated)
   "template.aux"
